@@ -1,0 +1,8 @@
+streamlit
+fbprophet
+matplotlib
+plotly
+seaborn
+numpy
+scikit-learn
+
